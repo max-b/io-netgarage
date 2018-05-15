@@ -1,0 +1,50 @@
+[
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-std=gnu11",
+            "-Wall",
+            "-Wextra",
+            "-Werror",
+            "-Werror-implicit-function-declaration",
+            "-o",
+            "level04.o",
+            "level04.c"
+        ],
+        "directory": "/home/maxb/work/io-wargame/level_code",
+        "file": "level04.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-std=gnu11",
+            "-Wall",
+            "-Wextra",
+            "-Werror",
+            "-Werror-implicit-function-declaration",
+            "-o",
+            "level03.o",
+            "level03.c"
+        ],
+        "directory": "/home/maxb/work/io-wargame/level_code",
+        "file": "level03.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-std=gnu11",
+            "-Wall",
+            "-Wextra",
+            "-Werror",
+            "-Werror-implicit-function-declaration",
+            "-o",
+            "level02.o",
+            "level02.c"
+        ],
+        "directory": "/home/maxb/work/io-wargame/level_code",
+        "file": "level02.c"
+    }
+]

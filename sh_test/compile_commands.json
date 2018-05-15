@@ -1,0 +1,18 @@
+[
+    {
+        "arguments": [
+            "cc", 
+            "-c", 
+            "-std=gnu11", 
+            "-Wall", 
+            "-Wextra", 
+            "-Werror", 
+            "-Werror-implicit-function-declaration", 
+            "-o", 
+            "shellcode_test.o", 
+            "shellcode_test.c"
+        ], 
+        "directory": "/home/maxb/work/io-wargame/sh_test", 
+        "file": "shellcode_test.c"
+    }
+]
